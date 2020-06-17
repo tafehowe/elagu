@@ -12,12 +12,12 @@ align: right; border: 1px solid #590000; }
 .green { margin: 1px; margin-top: 1px; margin-bottom: 1px; text-align: none; font-weight: none; color: #00ff00; border: 1px #00ff00 solid; background-color: #007700; }
 .head { background-color: #FF0000; font-size: 18px; font-weight: none; color: #fff; padding: 3px; border: 0px solid #444; border-bottom: 1px solid
 orange; text-align: center; text-shadow: 1px 1px 2px #111; }
-.header { background-color: #404040; border-top-width: 1px; border-top-color: #7f1a2a; border-top-style: solid; border-bottom-width: 1px; border-bottom-color: #363636; border-bottom-style: solid; margin-top: 1px; margin-bottom: 1px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; }
+.header { background-color: #1A66D6; border-top-width: 1px; border-top-color: #7f1a2a; border-top-style: solid; border-bottom-width: 1px; border-bottom-color: #363636; border-bottom-style: solid; margin-top: 1px; margin-bottom: 1px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; }
 .koes { color: #804405; background-color: #000406; background-image: url
 (/img/3094/3094255_2bdc535aee.gif); background-repeat: repeat-x; background-position: 50% top; margin-top: 1px; margin-bottom: 1px; padding: 2px; border: 1px double #2f200e; }
 .list3 { background-color: #222222; margin-top: 0px; margin-bottom: 0px; padding: 2px; border: 1px solid #232323; }
 .list4 { color: #877cc9; background-color: #000; background-image: ; background-repeat: repeat-x; background-position: 50% bottom; margin-top: 1px; margin-bottom: 1px; padding: 2px; border: 1px solid #800080; }
-.list5 { background-color: #404040; border-top-width: 1px; border-top-color: #7f1a2a; border-top-style: solid; border-bottom-width: 1px; border-bottom-color: #363636; border-bottom-style: solid; margin-top: 1px; margin-bottom: 1px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; }
+.list5 { background-color: #1A66D6; border-top-width: 1px; border-top-color: #7f1a2a; border-top-style: solid; border-bottom-width: 1px; border-bottom-color: #363636; border-bottom-style: solid; margin-top: 1px; margin-bottom: 1px; padding-top: 2px; padding-bottom: 2px; padding-left: 2px; }
 .lister { background-color: #252525; margin-bottom: 1px; padding-top: 2px; padding-bottom: 2px; padding-left: 3px; padding-right: 2px; font-weight: none; border: 1px solid #363636; display: block; }
 .meta { background: #060 url(/img/200000/200000485_89e16a3b95.png)
 top right no-repeat; margin-top: -3px; margin-botom: 1px; padding: 2px; border-bottom: 1px solid #080; border-left: 1px solid #080; }
