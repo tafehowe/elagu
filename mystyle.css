@@ -33,7 +33,7 @@ solid #333333; background-image: url(/img/200002/200002817_0ddfaa9194.gif); back
 
 
 input[type='submit'] {background:#3b5998;border-color:#8a9ac5 #29447E #1a356e;color:#ffffff; text-align:center} input[type='file'], input[type='password'], input[type='text'] {max-width: 90%; border:1px solid #333333; margin:2px; padding:2px} a:link, a:visited {
-color : #fe8f17;
+color : #000000;
 text-decoration : none;
 }
 a:hover {
