@@ -304,3 +304,5 @@ color : #ff5a00;
 border-bottom : 1px dotted #
 933400;
 }
+.image{position:relative}
+.png-over{position:absolute; top:0; left:0}
